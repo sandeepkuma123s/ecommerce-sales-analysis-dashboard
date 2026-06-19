@@ -101,9 +101,9 @@ ecommerce-sales-analysis/
 
 ## Dashboard Preview
 
-Add your dashboard screenshot here:
 
-```markdown
+
+
 <img width="1000" height="742" alt="image" src="https://github.com/user-attachments/assets/dcad4fa9-eeb7-4e2b-8c58-c27d88e65411" />
 
 ```
