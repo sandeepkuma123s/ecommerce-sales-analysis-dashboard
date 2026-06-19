@@ -1,0 +1,6 @@
+customer_id,customer_name,city,state,region
+C001,Rahul Sharma,Delhi,Delhi,North
+C002,Priya Reddy,Hyderabad,Telangana,South
+C003,Amit Kumar,Mumbai,Maharashtra,West
+C004,Neha Singh,Kolkata,West Bengal,East
+C005,Sandeep Kumar,Vijayawada,Andhra Pradesh,South

@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,customer_name,city,state,region,product_id,quantity,product_name,category,price,payment_value
+O001,C001,2026-01-15,Rahul Sharma,Delhi,Delhi,North,P001,1,Laptop,Electronics,55000,55000
+O002,C002,2026-02-10,Priya Reddy,Hyderabad,Telangana,South,P002,2,Smartphone,Electronics,25000,50000
+O003,C003,2026-02-18,Amit Kumar,Mumbai,Maharashtra,West,P003,3,Headphones,Electronics,2000,6000
+O004,C004,2026-03-05,Neha Singh,Kolkata,West Bengal,East,P004,4,T-Shirt,Fashion,800,3200
+O005,C005,2026-03-20,Sandeep Kumar,Vijayawada,Andhra Pradesh,South,P005,2,Shoes,Fashion,2500,5000
